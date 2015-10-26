@@ -1,0 +1,1 @@
+Na generisanom forku dodajem fajl da testiram proceduru slanja promjena na upstream koji se nalazi pod coolboxgames racunu
