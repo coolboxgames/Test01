@@ -1,1 +1,3 @@
 Ovo je dodatak broj 1
+sada cu da promijenim sadrzaj ovog fajla 
+27.10.2015
