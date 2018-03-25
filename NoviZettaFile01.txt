@@ -1,1 +1,2 @@
 Na generisanom forku dodajem fajl da testiram proceduru slanja promjena na upstream koji se nalazi pod coolboxgames racunu
+Evo sad ovo dodajem da pratim promjenu u Jenkinsu
